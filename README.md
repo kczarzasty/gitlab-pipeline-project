@@ -1,2 +1,2 @@
 # gitlab-pipeline-project
-Working with GitLab to Run Project Pipeline
+Working HTML and GitLab
